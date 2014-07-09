@@ -1,6 +1,6 @@
 twitter_word_clouds
 ===================
-Word clouds using tweets from Twitter found using Python. The word clouds are made using www.jasondavies.com/wordcloud/ as referred by d3. Each word cloud is based off of 1000 tweets found that contain the keyword selected.
+Word clouds using tweets from Twitter found using Python (based on "Mining the Social Web" and Twitter's API). The word clouds are made using www.jasondavies.com/wordcloud/ as referred to by d3. Each word cloud is based off of 1000 tweets found that contain the keyword selected.
 
 The tweets for the Columbia, Brazil, and World Cup word clouds were gathered before the start of Columbia and Brazil's game in the 2014 World Cup on July 4, 2014, which followed France and Germany's game on the same day.
 
